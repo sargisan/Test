@@ -2,7 +2,3 @@ Test a new file.
 Added second line
 Add another line off code.
 Add one more line.
-
-Some content
-
-To revert ############333
